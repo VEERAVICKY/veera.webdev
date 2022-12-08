@@ -1,0 +1,88 @@
+
+/* text color =  #112A46 */
+/* buttons color = rgb(4, 170, 109) */
+
+
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+nav{
+  width: 100%;
+  display: grid;
+  grid-template-columns:1fr  1fr;
+  align-items: center;
+  
+}
+
+
+.logo a{
+  padding: 4px 10px 0px 10px;
+  align-self: center;
+  color: #112A46;
+  font-size: 32px;
+  font-weight: 700;
+  margin:2% 5%;
+}
+ul{
+  list-style: none;
+  display: flex;
+  justify-content:space-evenly;
+  align-content: center;
+  font-weight: 600;
+  font-size: 16px;
+ 
+}
+ul li{
+  color: #112A46;
+  padding: 5px 20px;
+  text-decoration: none;
+}
+ul li:hover{
+  color:white;
+}
+
+.resume:hover{
+  background-color: black;
+  color: white;
+}
+.resume{
+  color: white;
+}
+
+
+ a{
+  text-decoration: none;
+
+}
+
+ a:hover, a:active{
+  color: white;
+  background-color:black;
+  
+  border-radius: 5px;
+}
+
+.center_c{
+  top:50%;
+  left: 50%;
+  position: absolute;
+  font-weight: 700;
+  line-height: 1.2;
+    transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.caution{
+  color:darkorange;
+  font-size: 54px;
+
+}
+
+.project_msg{
+ 
+  font-size: 32px;
+  font-weight: 500;
+}
+
