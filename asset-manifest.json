@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/veera.webdev/static/css/main.1d9d4446.css",
+    "main.js": "/veera.webdev/static/js/main.7594ecbc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/veera.webdev/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.JPG": "/veera.webdev/static/media/profile.1afe47d02915d33f29d4.JPG",
+    "index.html": "/veera.webdev/index.html",
+    "main.1d9d4446.css.map": "/veera.webdev/static/css/main.1d9d4446.css.map",
+    "main.7594ecbc.js.map": "/veera.webdev/static/js/main.7594ecbc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/veera.webdev/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9d4446.css",
+    "static/js/main.7594ecbc.js"
+  ]
+}
